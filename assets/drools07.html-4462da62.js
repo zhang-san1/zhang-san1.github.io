@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3fac7d9c","path":"/Drools/drools07.html","title":"Spring整合Drools+web","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":2.08,"words":623},"filePathRelative":"Drools/drools07.md","excerpt":""}');export{e as data};

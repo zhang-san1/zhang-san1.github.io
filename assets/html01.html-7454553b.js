@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-324bae8d","path":"/FrontEnd/HTML/html01.html","title":"什么是HTML ?","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.4,"words":121},"filePathRelative":"FrontEnd/HTML/html01.md","excerpt":""}');export{t as data};

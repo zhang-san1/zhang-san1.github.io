@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7d673a86","path":"/KnowledgeGraph/","title":"Knowledge Graph","lang":"zh-CN","frontmatter":{"title":"Knowledge Graph","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null,"excerpt":""}');export{e as data};

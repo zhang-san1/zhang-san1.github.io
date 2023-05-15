@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-514a416a","path":"/KnowledgeGraph/KGDemo/","title":"没学","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"KnowledgeGraph/KGDemo/README.md","excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,W as n,X as r,Z as e,$ as a}from"./framework-6447176f.js";const c={},s=e("h1",{id:"springmvc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springmvc","aria-hidden":"true"},"#"),a(" SpringMVC")],-1),o=[s];function i(_,d){return n(),r("div",null,o)}const l=t(c,[["render",i],["__file","index.html.vue"]]);export{l as default};

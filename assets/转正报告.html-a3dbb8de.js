@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-39b08b94","path":"/Design_Pattern/Structural_Mode/%E8%BD%AC%E6%AD%A3%E6%8A%A5%E5%91%8A.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.32,"words":395},"filePathRelative":"Design_Pattern/Structural_Mode/转正报告.md","excerpt":""}');export{t as data};
