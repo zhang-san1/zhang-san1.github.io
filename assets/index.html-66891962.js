@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-52cbc3e7","path":"/Design_Pattern/","title":"Design Pattern","lang":"zh-CN","frontmatter":{"title":"Design Pattern","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null,"excerpt":""}');export{e as data};

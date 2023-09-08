@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d6be360","path":"/Record/Record010.html","title":"linux 安装 nginx","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":2.68,"words":803},"filePathRelative":"Record/Record010.md","excerpt":""}');export{e as data};

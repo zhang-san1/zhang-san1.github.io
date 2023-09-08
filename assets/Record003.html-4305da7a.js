@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24b79c08","path":"/Record/Record003.html","title":"目录结构封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.1,"words":330},"filePathRelative":"Record/Record003.md","excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b7da6516","path":"/Design_Pattern/Structural_Mode/drools%E8%B0%83%E7%A0%94%E6%96%87%E6%A1%A3.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":5.14,"words":1543},"filePathRelative":"Design_Pattern/Structural_Mode/drools调研文档.md","excerpt":""}');export{t as data};

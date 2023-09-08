@@ -1,0 +1,1 @@
+const r=JSON.parse('{"key":"v-3df7a4fd","path":"/Drools/drools06.html","title":"Spring整合Drools","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Spring简单整合Drools","slug":"spring简单整合drools","link":"#spring简单整合drools","children":[]}],"git":{},"readingTime":{"minutes":1.45,"words":436},"filePathRelative":"Drools/drools06.md","excerpt":""}');export{r as data};

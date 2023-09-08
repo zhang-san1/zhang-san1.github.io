@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a5edf916","path":"/BackEnd/JavaSE/Javase09.html","title":"特殊文件、日志框架","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"","slug":"","link":"#","children":[]}],"git":{},"readingTime":{"minutes":0.03,"words":8},"filePathRelative":"BackEnd/JavaSE/Javase09.md","excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28214d46","path":"/Record/Record002.html","title":"mybatis 实体类通用插入方法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.87,"words":261},"filePathRelative":"Record/Record002.md","excerpt":""}');export{e as data};

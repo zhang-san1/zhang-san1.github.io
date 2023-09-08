@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0dc528c5","path":"/Record/","title":"随手记","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":3},"filePathRelative":"Record/README.md","excerpt":""}');export{e as data};
